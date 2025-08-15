@@ -1,0 +1,3 @@
+fn main() {
+    transistor::demo_aes_like();
+}
